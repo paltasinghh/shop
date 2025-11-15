@@ -39,3 +39,4 @@ vite.config.timestamp-*.json
 
 # Optional: Files created by JetBrains IDEs
 *.iml
+TODO.md
